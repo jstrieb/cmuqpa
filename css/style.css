@@ -1,0 +1,34 @@
+.table {
+    width: 80%;
+    max-width: 850px;
+    margin: auto;
+    padding: 25px;
+}
+
+.rightAlign {
+    display: block;
+    margin-left: auto;
+}
+
+.centerText {
+    text-align: center;
+}
+
+table {
+    width: 100%;
+}
+
+.slider {
+    width: 60%;
+}
+
+input {
+    width: 100%;
+}
+
+table, th, td {
+    padding: 10px;
+    text-align: left;
+    border: 1px solid #ddd;
+    border-collapse: collapse;
+}
